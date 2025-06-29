@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sevgiliye-sorular/static/css/main.2a71fab0.css",
+    "main.js": "/sevgiliye-sorular/static/js/main.99fc2983.js",
+    "static/js/453.116e0f9a.chunk.js": "/sevgiliye-sorular/static/js/453.116e0f9a.chunk.js",
+    "static/media/Resim3.jpeg": "/sevgiliye-sorular/static/media/Resim3.c30f2c9532a5d4101ed8.jpeg",
+    "static/media/Resim9.jpeg": "/sevgiliye-sorular/static/media/Resim9.8e75b04acb1fb3bdee36.jpeg",
+    "static/media/Resim4.jpeg": "/sevgiliye-sorular/static/media/Resim4.6d95e28f714166a64c00.jpeg",
+    "static/media/Resim10.jpeg": "/sevgiliye-sorular/static/media/Resim10.2adf7e5b0d8e41a9bc38.jpeg",
+    "static/media/Resim7.jpeg": "/sevgiliye-sorular/static/media/Resim7.c196edf49067f3cff033.jpeg",
+    "static/media/Resim5.jpeg": "/sevgiliye-sorular/static/media/Resim5.0bc3c48df2046f73807f.jpeg",
+    "static/media/Resim2.jpeg": "/sevgiliye-sorular/static/media/Resim2.41073bd3decd7cc101d9.jpeg",
+    "static/media/Resim8.jpeg": "/sevgiliye-sorular/static/media/Resim8.3a66ac6e27711053ec27.jpeg",
+    "static/media/Resim1.jpeg": "/sevgiliye-sorular/static/media/Resim1.667569a336d1336e6f97.jpeg",
+    "static/media/Resim6.jpeg": "/sevgiliye-sorular/static/media/Resim6.9d463dc132334e8e6af3.jpeg",
+    "index.html": "/sevgiliye-sorular/index.html",
+    "main.2a71fab0.css.map": "/sevgiliye-sorular/static/css/main.2a71fab0.css.map",
+    "main.99fc2983.js.map": "/sevgiliye-sorular/static/js/main.99fc2983.js.map",
+    "453.116e0f9a.chunk.js.map": "/sevgiliye-sorular/static/js/453.116e0f9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a71fab0.css",
+    "static/js/main.99fc2983.js"
+  ]
+}
